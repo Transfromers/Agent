@@ -12,6 +12,7 @@
 - **交互式模式**：支持命令行交互式使用
 - **批量处理**：支持批量分析多个主题
 - **错误恢复**：自动重试机制和错误处理
+- ui界面尚未开发
 
 ## 🏗️ 系统架构
 
@@ -292,23 +293,13 @@ rm agent_automation.db
 python main.py
 ```
 
-## 📚 相关文档
-
-- [LangChain 文档](https://docs.langchain.com/)
-- [LangGraph 文档](https://langchain-ai.github.io/langgraph/)
-- [SerpAPI 文档](https://serpapi.com/docs)
-- [Firecrawl 文档](https://docs.firecrawl.dev/)
-
-## 
-
-欢迎提交Issue和Pull Request！
 
 ## 📄 没有许可证
 
 MIT License
 
 ##  zzztrans
-
+测试结果：https://github.com/Transfromers/test_results
 创建于 2026-03-24
 
 ---
